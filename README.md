@@ -2,6 +2,9 @@
 
 Test using Symfony console to build a simple console application for Catch code test
 
+Author: Jingkai Zhang
+Contact: zglker@gmail.com
+
 # Config stmp email server
 
 Please change the const values in src/Services/SendEmailService.php
