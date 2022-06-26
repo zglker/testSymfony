@@ -1,0 +1,14 @@
+{
+    "require": {
+        "symfony/console": "^5.4",
+        "ext-json": "*",
+        "ext-bcmath": "*",
+        "phpmailer/phpmailer": "^6.6"
+    },
+    "autoload": {
+        "psr-4": {
+            "Console\\": "src"
+        },
+        "classmap": ["src"]
+    }
+}

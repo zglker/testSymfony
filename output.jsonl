@@ -1,0 +1,120 @@
+{"order_id":1001,"order_datetime":"2019-03-08T12:13:29+0000","total_order_value":"359.78","average_unit_price":59.96,"distinct_unit_count":2,"total_units_count":6,"customer_state":"VICTORIA"}
+{"order_id":1002,"order_datetime":"2019-03-08T13:45:01+0000","total_order_value":"102.93","average_unit_price":14.7,"distinct_unit_count":3,"total_units_count":7,"customer_state":"NEW SOUTH WALES"}
+{"order_id":1003,"order_datetime":"2019-03-08T14:57:31+0000","total_order_value":"680.61","average_unit_price":32.41,"distinct_unit_count":4,"total_units_count":21,"customer_state":"VICTORIA"}
+{"order_id":1004,"order_datetime":"2019-03-08T17:34:30+0000","total_order_value":"444.87","average_unit_price":34.22,"distinct_unit_count":6,"total_units_count":13,"customer_state":"VICTORIA"}
+{"order_id":1005,"order_datetime":"2019-03-08T19:03:05+0000","total_order_value":"301.85","average_unit_price":20.65,"distinct_unit_count":5,"total_units_count":15,"customer_state":"WESTERN AUSTRALIA"}
+{"order_id":1006,"order_datetime":"2019-03-08T20:22:51+0000","total_order_value":"2,330.86","average_unit_price":83.24,"distinct_unit_count":10,"total_units_count":28,"customer_state":"NEW SOUTH WALES"}
+{"order_id":1007,"order_datetime":"2019-03-08T22:00:26+0000","total_order_value":"465.86","average_unit_price":27.4,"distinct_unit_count":9,"total_units_count":17,"customer_state":"NEW SOUTH WALES"}
+{"order_id":1008,"order_datetime":"2019-03-08T23:55:30+0000","total_order_value":"529.87","average_unit_price":44.15,"distinct_unit_count":6,"total_units_count":12,"customer_state":"SOUTH AUSTRALIA"}
+{"order_id":1009,"order_datetime":"2019-03-09T00:21:12+0000","total_order_value":"49.99","average_unit_price":49.99,"distinct_unit_count":1,"total_units_count":1,"customer_state":"VICTORIA"}
+{"order_id":1010,"order_datetime":"2019-03-09T00:59:40+0000","total_order_value":"1,096.77","average_unit_price":52.22,"distinct_unit_count":7,"total_units_count":21,"customer_state":"NEW SOUTH WALES"}
+{"order_id":1011,"order_datetime":"2019-03-09T01:08:06+0000","total_order_value":"59.88","average_unit_price":9.98,"distinct_unit_count":1,"total_units_count":6,"customer_state":"NEW SOUTH WALES"}
+{"order_id":1012,"order_datetime":"2019-03-09T03:28:29+0000","total_order_value":"557.88","average_unit_price":46.49,"distinct_unit_count":2,"total_units_count":12,"customer_state":"WESTERN AUSTRALIA"}
+{"order_id":1013,"order_datetime":"2019-03-09T05:13:44+0000","total_order_value":"538.77","average_unit_price":28.35,"distinct_unit_count":8,"total_units_count":19,"customer_state":"NEW SOUTH WALES"}
+{"order_id":1014,"order_datetime":"2019-03-09T07:20:34+0000","total_order_value":"1,314.72","average_unit_price":45.57,"distinct_unit_count":9,"total_units_count":29,"customer_state":"QUEENSLAND"}
+{"order_id":1015,"order_datetime":"2019-03-09T09:51:20+0000","total_order_value":"863.85","average_unit_price":53.99,"distinct_unit_count":5,"total_units_count":16,"customer_state":"NEW SOUTH WALES"}
+{"order_id":1016,"order_datetime":"2019-03-09T12:17:41+0000","total_order_value":"9.19","average_unit_price":9.99,"distinct_unit_count":1,"total_units_count":1,"customer_state":"NEW SOUTH WALES"}
+{"order_id":1017,"order_datetime":"2019-03-09T12:29:45+0000","total_order_value":"286.87","average_unit_price":22.06,"distinct_unit_count":3,"total_units_count":13,"customer_state":"QUEENSLAND"}
+{"order_id":1018,"order_datetime":"2019-03-09T13:32:49+0000","total_order_value":"981.85","average_unit_price":51.67,"distinct_unit_count":8,"total_units_count":19,"customer_state":"NEW SOUTH WALES"}
+{"order_id":1019,"order_datetime":"2019-03-09T13:57:26+0000","total_order_value":"1,262.80","average_unit_price":84.18,"distinct_unit_count":7,"total_units_count":15,"customer_state":"NEW SOUTH WALES"}
+{"order_id":1020,"order_datetime":"2019-03-09T14:08:58+0000","total_order_value":"626.86","average_unit_price":48.22,"distinct_unit_count":7,"total_units_count":13,"customer_state":"NEW SOUTH WALES"}
+{"order_id":1021,"order_datetime":"2019-03-09T14:31:53+0000","total_order_value":"115.89","average_unit_price":10.53,"distinct_unit_count":3,"total_units_count":11,"customer_state":"QUEENSLAND"}
+{"order_id":1022,"order_datetime":"2019-03-09T15:49:29+0000","total_order_value":"671.74","average_unit_price":27.98,"distinct_unit_count":9,"total_units_count":24,"customer_state":"NEW SOUTH WALES"}
+{"order_id":1023,"order_datetime":"2019-03-09T18:34:31+0000","total_order_value":"328.20","average_unit_price":37.98,"distinct_unit_count":4,"total_units_count":9,"customer_state":"SOUTH AUSTRALIA"}
+{"order_id":1024,"order_datetime":"2019-03-09T20:35:12+0000","total_order_value":"160.90","average_unit_price":22.98,"distinct_unit_count":2,"total_units_count":7,"customer_state":"QUEENSLAND"}
+{"order_id":1025,"order_datetime":"2019-03-09T21:12:54+0000","total_order_value":"691.69","average_unit_price":20.96,"distinct_unit_count":10,"total_units_count":33,"customer_state":"NEW SOUTH WALES"}
+{"order_id":1026,"order_datetime":"2019-03-09T23:02:36+0000","total_order_value":"658.85","average_unit_price":50.68,"distinct_unit_count":4,"total_units_count":13,"customer_state":"NEW SOUTH WALES"}
+{"order_id":1027,"order_datetime":"2019-03-10T00:33:02+0000","total_order_value":"169.66","average_unit_price":16.96,"distinct_unit_count":2,"total_units_count":10,"customer_state":"WESTERN AUSTRALIA"}
+{"order_id":1028,"order_datetime":"2019-03-10T02:15:29+0000","total_order_value":"184.75","average_unit_price":15.39,"distinct_unit_count":5,"total_units_count":12,"customer_state":"VICTORIA"}
+{"order_id":1029,"order_datetime":"2019-03-10T03:34:04+0000","total_order_value":"921.83","average_unit_price":31.78,"distinct_unit_count":10,"total_units_count":29,"customer_state":"VICTORIA"}
+{"order_id":1030,"order_datetime":"2019-03-10T03:58:17+0000","total_order_value":"764.59","average_unit_price":44.97,"distinct_unit_count":9,"total_units_count":17,"customer_state":"VICTORIA"}
+{"order_id":1031,"order_datetime":"2019-03-10T04:38:15+0000","total_order_value":"3,412.82","average_unit_price":148.38,"distinct_unit_count":7,"total_units_count":23,"customer_state":"NEW SOUTH WALES"}
+{"order_id":1032,"order_datetime":"2019-03-10T06:27:53+0000","total_order_value":"868.77","average_unit_price":45.72,"distinct_unit_count":5,"total_units_count":19,"customer_state":"VICTORIA"}
+{"order_id":1033,"order_datetime":"2019-03-10T06:30:02+0000","total_order_value":"339.19","average_unit_price":53.52,"distinct_unit_count":2,"total_units_count":7,"customer_state":"VICTORIA"}
+{"order_id":1034,"order_datetime":"2019-03-10T07:33:17+0000","total_order_value":"882.92","average_unit_price":67.91,"distinct_unit_count":6,"total_units_count":13,"customer_state":"VICTORIA"}
+{"order_id":1035,"order_datetime":"2019-03-10T08:51:23+0000","total_order_value":"1,039.63","average_unit_price":41.58,"distinct_unit_count":7,"total_units_count":25,"customer_state":"SOUTH AUSTRALIA"}
+{"order_id":1036,"order_datetime":"2019-03-10T09:38:05+0000","total_order_value":"271.94","average_unit_price":46.65,"distinct_unit_count":2,"total_units_count":6,"customer_state":"NEW SOUTH WALES"}
+{"order_id":1037,"order_datetime":"2019-03-10T12:11:00+0000","total_order_value":"826.62","average_unit_price":31.94,"distinct_unit_count":9,"total_units_count":26,"customer_state":"QUEENSLAND"}
+{"order_id":1038,"order_datetime":"2019-03-10T12:38:35+0000","total_order_value":"337.91","average_unit_price":42.23,"distinct_unit_count":3,"total_units_count":8,"customer_state":"WESTERN AUSTRALIA"}
+{"order_id":1039,"order_datetime":"2019-03-10T14:38:53+0000","total_order_value":"594.86","average_unit_price":54.07,"distinct_unit_count":7,"total_units_count":11,"customer_state":"VICTORIA"}
+{"order_id":1040,"order_datetime":"2019-03-10T15:16:54+0000","total_order_value":"350.67","average_unit_price":23.37,"distinct_unit_count":3,"total_units_count":15,"customer_state":"NEW SOUTH WALES"}
+{"order_id":1041,"order_datetime":"2019-03-10T15:52:46+0000","total_order_value":"1,593.10","average_unit_price":61.27,"distinct_unit_count":10,"total_units_count":26,"customer_state":"VICTORIA"}
+{"order_id":1042,"order_datetime":"2019-03-10T17:44:51+0000","total_order_value":"287.91","average_unit_price":47.98,"distinct_unit_count":4,"total_units_count":6,"customer_state":"QUEENSLAND"}
+{"order_id":1043,"order_datetime":"2019-03-10T19:07:26+0000","total_order_value":"214.95","average_unit_price":42.99,"distinct_unit_count":2,"total_units_count":5,"customer_state":"QUEENSLAND"}
+{"order_id":1044,"order_datetime":"2019-03-10T21:13:39+0000","total_order_value":"426.74","average_unit_price":16.41,"distinct_unit_count":7,"total_units_count":26,"customer_state":"VICTORIA"}
+{"order_id":1045,"order_datetime":"2019-03-10T21:54:39+0000","total_order_value":"733.97","average_unit_price":61.16,"distinct_unit_count":4,"total_units_count":12,"customer_state":"QUEENSLAND"}
+{"order_id":1046,"order_datetime":"2019-03-10T23:58:32+0000","total_order_value":"783.71","average_unit_price":41.24,"distinct_unit_count":9,"total_units_count":19,"customer_state":"NEW SOUTH WALES"}
+{"order_id":1047,"order_datetime":"2019-03-11T01:17:59+0000","total_order_value":"8,910.44","average_unit_price":488.51,"distinct_unit_count":6,"total_units_count":19,"customer_state":"NEW SOUTH WALES"}
+{"order_id":1048,"order_datetime":"2019-03-11T01:33:35+0000","total_order_value":"218.77","average_unit_price":19.88,"distinct_unit_count":4,"total_units_count":11,"customer_state":"NEW SOUTH WALES"}
+{"order_id":1049,"order_datetime":"2019-03-11T03:53:52+0000","total_order_value":"84.97","average_unit_price":28.32,"distinct_unit_count":2,"total_units_count":3,"customer_state":"NEW SOUTH WALES"}
+{"order_id":1050,"order_datetime":"2019-03-11T05:54:15+0000","total_order_value":"519.90","average_unit_price":51.99,"distinct_unit_count":2,"total_units_count":10,"customer_state":"SOUTH AUSTRALIA"}
+{"order_id":1051,"order_datetime":"2019-03-11T08:33:36+0000","total_order_value":"737.69","average_unit_price":67.06,"distinct_unit_count":5,"total_units_count":11,"customer_state":"NEW SOUTH WALES"}
+{"order_id":1052,"order_datetime":"2019-03-11T11:15:51+0000","total_order_value":"1,078.67","average_unit_price":44.94,"distinct_unit_count":9,"total_units_count":24,"customer_state":"NEW SOUTH WALES"}
+{"order_id":1053,"order_datetime":"2019-03-11T11:35:14+0000","total_order_value":"171.09","average_unit_price":30.99,"distinct_unit_count":2,"total_units_count":6,"customer_state":"NEW SOUTH WALES"}
+{"order_id":1054,"order_datetime":"2019-03-11T11:49:36+0000","total_order_value":"2,652.80","average_unit_price":115.33,"distinct_unit_count":10,"total_units_count":23,"customer_state":"SOUTH AUSTRALIA"}
+{"order_id":1055,"order_datetime":"2019-03-11T12:03:49+0000","total_order_value":"245.00","average_unit_price":245,"distinct_unit_count":1,"total_units_count":1,"customer_state":"NEW SOUTH WALES"}
+{"order_id":1056,"order_datetime":"2019-03-11T13:18:16+0000","total_order_value":"84.95","average_unit_price":16.99,"distinct_unit_count":2,"total_units_count":5,"customer_state":"SOUTH AUSTRALIA"}
+{"order_id":1057,"order_datetime":"2019-03-11T15:58:11+0000","total_order_value":"221.75","average_unit_price":31.67,"distinct_unit_count":2,"total_units_count":7,"customer_state":"VICTORIA"}
+{"order_id":1058,"order_datetime":"2019-03-11T18:42:12+0000","total_order_value":"640.85","average_unit_price":49.6,"distinct_unit_count":7,"total_units_count":13,"customer_state":"NEW SOUTH WALES"}
+{"order_id":1059,"order_datetime":"2019-03-11T20:58:27+0000","total_order_value":"412.85","average_unit_price":29.48,"distinct_unit_count":7,"total_units_count":14,"customer_state":"WESTERN AUSTRALIA"}
+{"order_id":1060,"order_datetime":"2019-03-11T21:10:19+0000","total_order_value":"2,234.89","average_unit_price":97.16,"distinct_unit_count":7,"total_units_count":23,"customer_state":"QUEENSLAND"}
+{"order_id":1061,"order_datetime":"2019-03-11T21:29:52+0000","total_order_value":"413.41","average_unit_price":21.75,"distinct_unit_count":8,"total_units_count":19,"customer_state":"TASMANIA"}
+{"order_id":1062,"order_datetime":"2019-03-11T23:38:24+0000","total_order_value":"406.84","average_unit_price":25.67,"distinct_unit_count":6,"total_units_count":16,"customer_state":"VICTORIA"}
+{"order_id":1063,"order_datetime":"2019-03-12T02:01:32+0000","total_order_value":"889.97","average_unit_price":148.32,"distinct_unit_count":5,"total_units_count":6,"customer_state":"NEW SOUTH WALES"}
+{"order_id":1064,"order_datetime":"2019-03-12T03:27:44+0000","total_order_value":"303.60","average_unit_price":21.68,"distinct_unit_count":5,"total_units_count":14,"customer_state":"VICTORIA"}
+{"order_id":1065,"order_datetime":"2019-03-12T05:48:57+0000","total_order_value":"499.75","average_unit_price":19.99,"distinct_unit_count":6,"total_units_count":25,"customer_state":"VICTORIA"}
+{"order_id":1066,"order_datetime":"2019-03-12T06:57:00+0000","total_order_value":"5,347.30","average_unit_price":194.09,"distinct_unit_count":10,"total_units_count":29,"customer_state":"VICTORIA"}
+{"order_id":1067,"order_datetime":"2019-03-12T07:29:07+0000","total_order_value":"717.95","average_unit_price":102.56,"distinct_unit_count":3,"total_units_count":7,"customer_state":"VICTORIA"}
+{"order_id":1068,"order_datetime":"2019-03-12T07:56:40+0000","total_order_value":"526.92","average_unit_price":47.9,"distinct_unit_count":7,"total_units_count":11,"customer_state":"NEW SOUTH WALES"}
+{"order_id":1069,"order_datetime":"2019-03-12T08:18:07+0000","total_order_value":"30.01","average_unit_price":19.99,"distinct_unit_count":1,"total_units_count":2,"customer_state":"VICTORIA"}
+{"order_id":1070,"order_datetime":"2019-03-12T08:40:03+0000","total_order_value":"1,792.91","average_unit_price":94.36,"distinct_unit_count":10,"total_units_count":19,"customer_state":"NEW SOUTH WALES"}
+{"order_id":1071,"order_datetime":"2019-03-12T09:43:10+0000","total_order_value":"694.78","average_unit_price":36.56,"distinct_unit_count":6,"total_units_count":19,"customer_state":"WESTERN AUSTRALIA"}
+{"order_id":1072,"order_datetime":"2019-03-12T11:51:25+0000","total_order_value":"458.83","average_unit_price":45.88,"distinct_unit_count":8,"total_units_count":10,"customer_state":"VICTORIA"}
+{"order_id":1073,"order_datetime":"2019-03-12T14:31:46+0000","total_order_value":"753.77","average_unit_price":31.73,"distinct_unit_count":10,"total_units_count":25,"customer_state":"SOUTH AUSTRALIA"}
+{"order_id":1074,"order_datetime":"2019-03-12T17:09:09+0000","total_order_value":"774.91","average_unit_price":70.44,"distinct_unit_count":5,"total_units_count":11,"customer_state":"NEW SOUTH WALES"}
+{"order_id":1075,"order_datetime":"2019-03-12T19:42:05+0000","total_order_value":"9.99","average_unit_price":9.99,"distinct_unit_count":1,"total_units_count":1,"customer_state":"VICTORIA"}
+{"order_id":1076,"order_datetime":"2019-03-12T19:59:31+0000","total_order_value":"206.43","average_unit_price":20.94,"distinct_unit_count":4,"total_units_count":10,"customer_state":"QUEENSLAND"}
+{"order_id":1077,"order_datetime":"2019-03-12T21:14:05+0000","total_order_value":"1,061.95","average_unit_price":96.54,"distinct_unit_count":3,"total_units_count":11,"customer_state":"SOUTH AUSTRALIA"}
+{"order_id":1078,"order_datetime":"2019-03-12T23:47:55+0000","total_order_value":"645.30","average_unit_price":46.25,"distinct_unit_count":6,"total_units_count":15,"customer_state":"WESTERN AUSTRALIA"}
+{"order_id":1079,"order_datetime":"2019-03-13T00:51:36+0000","total_order_value":"2,293.80","average_unit_price":99.73,"distinct_unit_count":9,"total_units_count":23,"customer_state":"WESTERN AUSTRALIA"}
+{"order_id":1080,"order_datetime":"2019-03-13T02:26:13+0000","total_order_value":"1,485.68","average_unit_price":70.74,"distinct_unit_count":6,"total_units_count":21,"customer_state":"NEW SOUTH WALES"}
+{"order_id":1081,"order_datetime":"2019-03-13T04:50:29+0000","total_order_value":"554.59","average_unit_price":18.48,"distinct_unit_count":9,"total_units_count":30,"customer_state":"VICTORIA"}
+{"order_id":1082,"order_datetime":"2019-03-13T06:39:01+0000","total_order_value":"112.83","average_unit_price":14.1,"distinct_unit_count":4,"total_units_count":8,"customer_state":"VICTORIA"}
+{"order_id":1083,"order_datetime":"2019-03-13T07:17:52+0000","total_order_value":"1,006.43","average_unit_price":45.74,"distinct_unit_count":8,"total_units_count":22,"customer_state":"NEW SOUTH WALES"}
+{"order_id":1084,"order_datetime":"2019-03-13T09:24:19+0000","total_order_value":"239.93","average_unit_price":34.27,"distinct_unit_count":2,"total_units_count":7,"customer_state":"NEW SOUTH WALES"}
+{"order_id":1085,"order_datetime":"2019-03-13T09:31:09+0000","total_order_value":"55.00","average_unit_price":55,"distinct_unit_count":1,"total_units_count":1,"customer_state":"NEW SOUTH WALES"}
+{"order_id":1086,"order_datetime":"2019-03-13T10:45:50+0000","total_order_value":"315.44","average_unit_price":28.57,"distinct_unit_count":4,"total_units_count":12,"customer_state":"SOUTH AUSTRALIA"}
+{"order_id":1087,"order_datetime":"2019-03-13T12:21:16+0000","total_order_value":"501.74","average_unit_price":25.08,"distinct_unit_count":7,"total_units_count":20,"customer_state":"TASMANIA"}
+{"order_id":1088,"order_datetime":"2019-03-13T13:40:45+0000","total_order_value":"39.99","average_unit_price":39.99,"distinct_unit_count":1,"total_units_count":1,"customer_state":"VICTORIA"}
+{"order_id":1089,"order_datetime":"2019-03-13T14:59:25+0000","total_order_value":"1,047.73","average_unit_price":41.9,"distinct_unit_count":10,"total_units_count":25,"customer_state":"VICTORIA"}
+{"order_id":1090,"order_datetime":"2019-03-13T15:11:39+0000","total_order_value":"526.88","average_unit_price":43.9,"distinct_unit_count":6,"total_units_count":12,"customer_state":"VICTORIA"}
+{"order_id":1091,"order_datetime":"2019-03-13T17:02:26+0000","total_order_value":"15.98","average_unit_price":7.99,"distinct_unit_count":1,"total_units_count":2,"customer_state":"NEW SOUTH WALES"}
+{"order_id":1092,"order_datetime":"2019-03-13T19:45:12+0000","total_order_value":"168.96","average_unit_price":42.24,"distinct_unit_count":2,"total_units_count":4,"customer_state":"NEW SOUTH WALES"}
+{"order_id":1093,"order_datetime":"2019-03-13T19:57:25+0000","total_order_value":"1,393.74","average_unit_price":55.74,"distinct_unit_count":10,"total_units_count":25,"customer_state":"VICTORIA"}
+{"order_id":1094,"order_datetime":"2019-03-13T21:36:28+0000","total_order_value":"1,460.85","average_unit_price":104.34,"distinct_unit_count":6,"total_units_count":14,"customer_state":"NEW SOUTH WALES"}
+{"order_id":1095,"order_datetime":"2019-03-13T22:25:54+0000","total_order_value":"816.78","average_unit_price":48.04,"distinct_unit_count":5,"total_units_count":17,"customer_state":"NEW SOUTH WALES"}
+{"order_id":1096,"order_datetime":"2019-03-13T23:57:06+0000","total_order_value":"844.10","average_unit_price":49.36,"distinct_unit_count":7,"total_units_count":19,"customer_state":"QUEENSLAND"}
+{"order_id":1097,"order_datetime":"2019-03-14T00:28:27+0000","total_order_value":"138.91","average_unit_price":15.43,"distinct_unit_count":3,"total_units_count":9,"customer_state":"VICTORIA"}
+{"order_id":1098,"order_datetime":"2019-03-14T00:35:38+0000","total_order_value":"709.73","average_unit_price":33.79,"distinct_unit_count":8,"total_units_count":21,"customer_state":"SOUTH AUSTRALIA"}
+{"order_id":1099,"order_datetime":"2019-03-14T02:42:47+0000","total_order_value":"157.22","average_unit_price":55.16,"distinct_unit_count":3,"total_units_count":3,"customer_state":"NEW SOUTH WALES"}
+{"order_id":1100,"order_datetime":"2019-03-14T04:22:44+0000","total_order_value":"1,337.77","average_unit_price":51.45,"distinct_unit_count":10,"total_units_count":26,"customer_state":"QUEENSLAND"}
+{"order_id":1101,"order_datetime":"2019-03-14T05:23:32+0000","total_order_value":"1,324.84","average_unit_price":45.85,"distinct_unit_count":7,"total_units_count":29,"customer_state":"NEW SOUTH WALES"}
+{"order_id":1102,"order_datetime":"2019-03-14T06:58:27+0000","total_order_value":"373.87","average_unit_price":29.37,"distinct_unit_count":4,"total_units_count":13,"customer_state":"NEW SOUTH WALES"}
+{"order_id":1103,"order_datetime":"2019-03-14T09:22:54+0000","total_order_value":"1,310.45","average_unit_price":45.18,"distinct_unit_count":10,"total_units_count":29,"customer_state":"QUEENSLAND"}
+{"order_id":1104,"order_datetime":"2019-03-14T11:43:57+0000","total_order_value":"29.98","average_unit_price":14.99,"distinct_unit_count":1,"total_units_count":2,"customer_state":"NEW SOUTH WALES"}
+{"order_id":1105,"order_datetime":"2019-03-14T13:34:07+0000","total_order_value":"839.66","average_unit_price":54.87,"distinct_unit_count":6,"total_units_count":17,"customer_state":"NEW SOUTH WALES"}
+{"order_id":1106,"order_datetime":"2019-03-14T16:08:28+0000","total_order_value":"64.97","average_unit_price":21.65,"distinct_unit_count":2,"total_units_count":3,"customer_state":"QUEENSLAND"}
+{"order_id":1107,"order_datetime":"2019-03-14T17:22:30+0000","total_order_value":"249.92","average_unit_price":31.24,"distinct_unit_count":3,"total_units_count":8,"customer_state":"QUEENSLAND"}
+{"order_id":1108,"order_datetime":"2019-03-14T19:33:47+0000","total_order_value":"581.76","average_unit_price":32.32,"distinct_unit_count":8,"total_units_count":18,"customer_state":"VICTORIA"}
+{"order_id":1109,"order_datetime":"2019-03-14T20:10:31+0000","total_order_value":"504.90","average_unit_price":63.48,"distinct_unit_count":5,"total_units_count":8,"customer_state":"VICTORIA"}
+{"order_id":1110,"order_datetime":"2019-03-14T22:30:00+0000","total_order_value":"379.88","average_unit_price":31.65,"distinct_unit_count":4,"total_units_count":12,"customer_state":"NEW SOUTH WALES"}
+{"order_id":1111,"order_datetime":"2019-03-15T00:06:00+0000","total_order_value":"895.80","average_unit_price":40.71,"distinct_unit_count":7,"total_units_count":22,"customer_state":"VICTORIA"}
+{"order_id":1112,"order_datetime":"2019-03-15T00:24:25+0000","total_order_value":"69.90","average_unit_price":34.95,"distinct_unit_count":1,"total_units_count":2,"customer_state":"QUEENSLAND"}
+{"order_id":1113,"order_datetime":"2019-03-15T01:47:32+0000","total_order_value":"1,016.77","average_unit_price":67.78,"distinct_unit_count":6,"total_units_count":15,"customer_state":"SOUTH AUSTRALIA"}
+{"order_id":1114,"order_datetime":"2019-03-15T02:23:47+0000","total_order_value":"590.76","average_unit_price":54.06,"distinct_unit_count":5,"total_units_count":11,"customer_state":"QUEENSLAND"}
+{"order_id":1115,"order_datetime":"2019-03-15T02:28:58+0000","total_order_value":"724.73","average_unit_price":27.87,"distinct_unit_count":8,"total_units_count":26,"customer_state":"NEW SOUTH WALES"}
+{"order_id":1116,"order_datetime":"2019-03-15T03:04:08+0000","total_order_value":"640.91","average_unit_price":71.21,"distinct_unit_count":5,"total_units_count":9,"customer_state":"VICTORIA"}
+{"order_id":1117,"order_datetime":"2019-03-15T04:51:18+0000","total_order_value":"1,077.43","average_unit_price":39.9,"distinct_unit_count":8,"total_units_count":27,"customer_state":"NEW SOUTH WALES"}
+{"order_id":1118,"order_datetime":"2019-03-15T05:12:55+0000","total_order_value":"220.93","average_unit_price":31.56,"distinct_unit_count":3,"total_units_count":7,"customer_state":"TASMANIA"}
+{"order_id":1119,"order_datetime":"2019-03-15T07:03:28+0000","total_order_value":"737.77","average_unit_price":29.79,"distinct_unit_count":8,"total_units_count":25,"customer_state":"VICTORIA"}
+{"order_id":1120,"order_datetime":"2019-03-15T08:56:57+0000","total_order_value":"99.85","average_unit_price":33.28,"distinct_unit_count":2,"total_units_count":3,"customer_state":"NEW SOUTH WALES"}
