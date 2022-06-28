@@ -13,7 +13,7 @@ Please change the const values in src/Services/SendEmailService.php
 
 1. "composer install" 
 2. "composer dump -o"
-3. "php ./console.php test <email> <fileType>" (fileType only accept csv or jsonl)
+3. "php ./console.php test {email} {fileType}" (fileType only accept csv or jsonl)
 
 # Assumption
 The file is correct.
